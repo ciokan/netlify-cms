@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.0.7"></a>
+## 2.0.7 (2018-09-19)
+
+**Note:** Version bump only for package netlify-cms-backend-gitlab
+
+
+
+
+
 <a name="2.0.6"></a>
 ## [2.0.6](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-gitlab/compare/netlify-cms-backend-gitlab@2.0.5...netlify-cms-backend-gitlab@2.0.6) (2018-08-27)
 

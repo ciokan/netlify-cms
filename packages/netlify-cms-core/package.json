@@ -1,7 +1,7 @@
 {
   "name": "netlify-cms-core",
   "description": "Netlify CMS core application, see netlify-cms package for the main distribution.",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "repository": "https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core",
   "bugs": "https://github.com/netlify/netlify-cms/issues",
   "main": "dist/netlify-cms-core.js",
@@ -65,9 +65,9 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.0",
-    "to-string-loader": "^1.1.5",
     "react": "^16.4.1",
     "react-emotion": "^9.2.5",
+    "to-string-loader": "^1.1.5",
     "webpack": "^4.16.1",
     "webpack-cli": "^3.1.0"
   },
@@ -75,15 +75,15 @@
     "emotion": "^9.2.6",
     "immutable": "^3.7.6",
     "lodash": "^4.17.10",
+    "moment": "^2.11.2",
     "netlify-cms-lib-auth": "2.0.0-alpha.0",
     "netlify-cms-lib-util": "2.0.0-alpha.0",
     "netlify-cms-ui-default": "^2.0.0",
     "prop-types": "^15.5.10",
     "react": "^16.4.1",
+    "react-dom": "^16.0.0",
     "react-emotion": "^9.2.5",
     "react-immutable-proptypes": "^2.1.0",
-    "moment": "^2.11.2",
-    "react-dom": "^16.0.0",
     "uuid": "^3.1.0"
   }
 }
