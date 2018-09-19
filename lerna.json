@@ -1,5 +1,5 @@
 {
-  "lerna": "2.11.0",
+  "lerna": "2.11.1",
   "packages": [
     "packages/netlify-cms-backend-bitbucket",
     "packages/netlify-cms-backend-git-gateway",

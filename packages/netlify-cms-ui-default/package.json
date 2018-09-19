@@ -31,5 +31,6 @@
     "prop-types": "^15.5.10",
     "react": "^16.4.1",
     "react-emotion": "^9.2.6"
-  }
+  },
+  "gitHead": "b831ab463e3d4cc671e248203b367c06299ace16"
 }

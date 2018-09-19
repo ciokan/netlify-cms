@@ -85,5 +85,6 @@
     "react-emotion": "^9.2.5",
     "react-immutable-proptypes": "^2.1.0",
     "uuid": "^3.1.0"
-  }
+  },
+  "gitHead": "b831ab463e3d4cc671e248203b367c06299ace16"
 }
