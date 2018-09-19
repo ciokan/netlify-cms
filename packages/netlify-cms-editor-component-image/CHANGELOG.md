@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.0.6"></a>
+## [2.0.6](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-editor-component-image/compare/netlify-cms-editor-component-image@2.0.5...netlify-cms-editor-component-image@2.0.6) (2018-09-19)
+
+**Note:** Version bump only for package netlify-cms-editor-component-image
+
+
+
+
+
 <a name="2.0.5"></a>
 ## 2.0.5 (2018-09-19)
 

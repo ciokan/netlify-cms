@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.0.7"></a>
+## [2.0.7](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-lib-util/compare/netlify-cms-lib-util@2.0.6...netlify-cms-lib-util@2.0.7) (2018-09-19)
+
+**Note:** Version bump only for package netlify-cms-lib-util
+
+
+
+
+
 <a name="2.0.6"></a>
 ## 2.0.6 (2018-09-19)
 
